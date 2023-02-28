@@ -1,2 +1,4 @@
 demo for pushing first folder to github (Merge Conflict)
+demo fir pushing second folder to github(Merge Conflict)
+
 
